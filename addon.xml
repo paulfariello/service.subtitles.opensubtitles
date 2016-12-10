@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="service.subtitles.opensubtitles"
+<addon id="service.subtitles.opensubtitles-safe"
        name="OpenSubtitles.org"
        version="5.0.14"
        provider-name="amet">
@@ -18,6 +18,6 @@
     <forum>http://forum.xbmc.org/showthread.php?tid=183114</forum>
     <website></website>
     <email></email>
-    <source>https://github.com/amet/service.subtitles.opensubtitles</source>    
+    <source>https://github.com/paulfariello/service.subtitles.opensubtitles</source>    
   </extension>
 </addon>
